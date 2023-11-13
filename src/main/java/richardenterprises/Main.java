@@ -14,5 +14,8 @@ public class Main {
 
         System.out.println("Trello!");
 
+        System.out.println("Rain");
+
+
     }
 }
